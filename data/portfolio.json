@@ -1,0 +1,156 @@
+{
+    "name": "Viktoriya",
+    "name1": "Viktoriya Mikhaylova",
+    "headerTaglineOne": "Hello",
+    "headerTaglineTwo": "I'm Viktoriya Mikhaylova - passionate",
+    "headerTaglineThree": "UI/UX designer",
+    "headerTaglineFour": "based in Järvenpää, Finland.",
+    "showCursor": true,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/viktoriyamik"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/viktoriya-mikhaylova-91873b262/"
+        },
+        {
+            "id": "3",
+            "title": "Email",
+            "link": "mailto:viktoriya.mikhaylova@hotmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Project One Test",
+            "description": "Web Design",
+            "imageSrc": "/images/image_transparent.png",
+            "url": "http://vmi394276.contaboserver.net/uxportfolio/"
+        },
+        {
+            "id": "2",
+            "title": "Project Two",
+            "description": "Web Development",
+            "imageSrc": "/images/image_transparent.png",
+            "url": "http://vmi394276.contaboserver.net/uxportfolio/"
+        },
+        {
+            "id": "3",
+            "title": "Project Three",
+            "description": "Design",
+            "imageSrc": "/images/image_transparent.png",
+            "url": "http://vmi394276.contaboserver.net/uxportfolio/"
+        },
+        {
+            "id": "4",
+            "title": "Project Four",
+            "description": "Marketing",
+            "imageSrc": "/images/image_transparent.png",
+            "url": "http://vmi394276.contaboserver.net/uxportfolio/"
+        },
+        {
+            "id": "5",
+            "title": "Project Five",
+            "description": "Development",
+            "imageSrc": "/images/image_transparent.png",
+            "url": "http://vmi394276.contaboserver.net/uxportfolio/"
+        },
+        {
+            "id": "6",
+            "title": "Project Six",
+            "description": "Design & Development",
+            "imageSrc": "/images/image_transparent.png",
+            "url": "http://vmi394276.contaboserver.net/uxportfolio/"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "UI/UX Design",
+            "description": "I can combine creative design and technical skills to build striking visualisations that bring your project to life."
+        },
+        {
+            "id": "2",
+            "title": "Branding",
+            "description": "I can design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+        },
+        {
+            "id": "3",
+            "title": "Web Design",
+            "description": "I can build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+        },
+        {
+            "id": "4",
+            "title": "Art Direction",
+            "description": "I can help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+        }
+    ],
+    "aboutpara": "I focus on providing innovative solutions that address clients' needs while making a memorable impression. My commitment to user satisfaction and attention to design detail guarantee that every project achieves its fullest design potential.",
+    "aboutpara1": "I believe that great design is inclusive, thoughtful, and fun, and there are still countless ways to improve products and services through design. When I'm not exploring how to make the world better with design, you can catch me at concerts, enjoying cake, or exercising in a gym.",
+    "resume": {
+        "tagline": "I'm a UI/UX designer, product designer.",
+        "description": "I have delivered world-class user experiences in several projects. Well-versed with Adobe CC, Figma, HTML, CSS, React, Javascript, and WordPress.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "May 2023 - Aug 2023",
+                "dates1": "Oct 2022 - Dec 2022",
+                "type": "",
+                "position": "UI/UX design student at LuckanHub",
+                "bullets": "Engaged in all phases of the Lyckanhub project, leveraging a keen interest in understanding the practical aspects of UX design methodologies. Utilized various UX techniques such as Personas, Empathy Maps, Affinity Maps, Journey Maps, and Crazy 8’s; Facilitated requirement gathering, ideation, and co-creation workshops to foster collaborative design processes; Authored a Bachelor's Thesis titled \"User-centered design and the implementation of a digital interactive platform\" (https://urn.fi/URN:NBN:fi:amk-2023121838093), drawing insights from project experiences; Constructed, managed and tested the forum for the website https://www.lyckanhub.fi/."
+            },
+            {
+                "id": "2",
+                "dates": "Jan 2021 - Apr 2022",
+                "dates1": "",
+                "type": "",
+                "position": "Graphic and Web Designer at Keuda",
+                "bullets": "Created the digital artwork \"Owl\" selected as the emblem for the \"SAKUstars2022\" competition: https://sakustars.fi/2022/; Designed visuals and served as the creative lead for the \"Reusing the old is better\" competition, encompassing logo creation, website graphics (https://sakustars.fi/2022/), and a diverse array of deliverables such as banners, roll- ups, posters, animations, postcards, and print designs for apparel, utilizing Adobe Creative Cloud tools;Developed, managed, and tested the WordPress website https://sakustars.fi/2022/."
+            },
+            {
+                "id": "3",
+                "dates": "Jan 2021 - Apr 2022",
+                "dates1": "",
+                "type": "",
+                "position": "Graphic and Web Designer at Lupita",
+                "bullets": "Created the digital artwork \"Owl\" selected as the emblem for the \"SAKUstars2022\" competition: https://sakustars.fi/2022/; Designed visuals and served as the creative lead for the \"Reusing the old is better\" competition, encompassing logo creation, website graphics (https://sakustars.fi/2022/), and a diverse array of deliverables such as banners, roll- ups, posters, animations, postcards, and print designs for apparel, utilizing Adobe Creative Cloud tools;Developed, managed, and tested the WordPress website https://sakustars.fi/2022/."
+            }
+        ],
+        "education": {
+            "universityName": "Laurea University of Applied Sciences",
+            "universityDate": "2021-Present",
+            "universityPara": "BBA in Business Information Technology. Major: Digital Services Development including Design of Applications, Applications Development and Testing & Quality Assurance. Grade: 4.86 (210 points)"
+        },
+        "education1": {
+            "universityName": "Pekka Halonen Academy",
+            "universityDate": "2019-2021",
+            "universityPara": "Degree in Media and Visual Expression, Graphic Design"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "PHP"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs"
+        ],
+        "others": [
+            "Figma",
+            "Adobe CC"
+        ],
+        "CMS": [
+            "WordPress",
+            "Drupal"
+        ]
+    }
+}
