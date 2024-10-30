@@ -1,13 +1,13 @@
 {
-    "name": "Viktoriya",
+    "name": "Viktoriya Mihaylova",
     "name1": "Viktoriya Mikhaylova",
     "headerTaglineOne": "Hello",
-    "headerTaglineTwo": "I'm Viktoriya Mikhaylova - passionate",
+    "headerTaglineTwo": "I'm Viktoriya - passionate",
     "headerTaglineThree": "UI/UX designer",
     "headerTaglineFour": "based in Järvenpää, Finland.",
     "showCursor": true,
     "showBlog": true,
-    "darkMode": true,
+    "darkMode": false,
     "showResume": true,
     "socials": [
         {
